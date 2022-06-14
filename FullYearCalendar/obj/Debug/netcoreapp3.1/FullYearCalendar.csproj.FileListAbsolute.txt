@@ -1,0 +1,13 @@
+C:\CodingEnCasa\FullYearCalendar\obj\Debug\netcoreapp3.1\FullYearCalendar.csprojAssemblyReference.cache
+C:\CodingEnCasa\FullYearCalendar\obj\Debug\netcoreapp3.1\FullYearCalendar.AssemblyInfoInputs.cache
+C:\CodingEnCasa\FullYearCalendar\obj\Debug\netcoreapp3.1\FullYearCalendar.AssemblyInfo.cs
+C:\CodingEnCasa\FullYearCalendar\obj\Debug\netcoreapp3.1\FullYearCalendar.csproj.CoreCompileInputs.cache
+C:\CodingEnCasa\FullYearCalendar\bin\Debug\netcoreapp3.1\FullYearCalendar.exe
+C:\CodingEnCasa\FullYearCalendar\bin\Debug\netcoreapp3.1\FullYearCalendar.deps.json
+C:\CodingEnCasa\FullYearCalendar\bin\Debug\netcoreapp3.1\FullYearCalendar.runtimeconfig.json
+C:\CodingEnCasa\FullYearCalendar\bin\Debug\netcoreapp3.1\FullYearCalendar.runtimeconfig.dev.json
+C:\CodingEnCasa\FullYearCalendar\bin\Debug\netcoreapp3.1\FullYearCalendar.dll
+C:\CodingEnCasa\FullYearCalendar\bin\Debug\netcoreapp3.1\FullYearCalendar.pdb
+C:\CodingEnCasa\FullYearCalendar\obj\Debug\netcoreapp3.1\FullYearCalendar.dll
+C:\CodingEnCasa\FullYearCalendar\obj\Debug\netcoreapp3.1\FullYearCalendar.pdb
+C:\CodingEnCasa\FullYearCalendar\obj\Debug\netcoreapp3.1\FullYearCalendar.genruntimeconfig.cache
